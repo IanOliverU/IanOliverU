@@ -15,9 +15,13 @@ I'm strengthening my foundations through projects using **React.js, TypeScript, 
 
 <img src="./assets/shopify-icon.svg" alt="Shopify" title="Shopify" height="48" /> <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" title="WordPress" height="48" />
 
+Shopify · WordPress
+
 **Languages**
 
 ![HTML, CSS, JavaScript, TypeScript, PHP, Python](https://skillicons.dev/icons?i=html,css,js,ts,php,python&theme=dark)
+
+HTML · CSS · JavaScript · TypeScript · PHP · Python
 
 **Frameworks & libraries used in personal projects**
 
