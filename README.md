@@ -17,7 +17,7 @@ This GitHub documents my progress, experiments, and the things I learn along the
 
 ![Web development tools](https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,figma&theme=dark)
 
-Shopify · Liquid · WordPress · WooCommerce · Elementor · Oxygen Builder · Avada
+Shopify · Liquid · WordPress · WooCommerce
 
 **Used in personal projects & currently exploring**
 
@@ -50,9 +50,7 @@ Windows-first · Local-first · Under active development
 | Project | Stars | Forks |
 | :--- | :--- | :--- |
 | [**Project Akiha**](https://github.com/IanOliverU/Project-Akiha) 🌸 A personal AI desktop companion with animation, memory, optional voice, and scoped assistant actions. | ![Stars](https://img.shields.io/github/stars/IanOliverU/Project-Akiha?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/IanOliverU/Project-Akiha?style=flat-square&labelColor=343b41) |
-| [**MEIKAN**](https://github.com/IanOliverU/MEIKAN-figure-store) 🛍️ An Expo React Native storefront prototype for anime figure collectors, with product discovery, wishlists, and mock shopping flows. | ![Stars](https://img.shields.io/github/stars/IanOliverU/MEIKAN-figure-store?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/IanOliverU/MEIKAN-figure-store?style=flat-square&labelColor=343b41) |
 | [**NISIOISIN Community App**](https://github.com/IanOliverU/NISIOISIN-Community-App) 📚 An Expo reading app for exploring light novels and manga, with bundled offline reading. | ![Stars](https://img.shields.io/github/stars/IanOliverU/NISIOISIN-Community-App?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/IanOliverU/NISIOISIN-Community-App?style=flat-square&labelColor=343b41) |
-| [**Project Akiha Mobile**](https://github.com/IanOliverU/Project-Akiha-Mobile) 📱 The Android-first companion project for Akiha, currently in early development with a specification and architecture foundation. | ![Stars](https://img.shields.io/github/stars/IanOliverU/Project-Akiha-Mobile?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/IanOliverU/Project-Akiha-Mobile?style=flat-square&labelColor=343b41) |
 
 ### What I'm working toward
 
