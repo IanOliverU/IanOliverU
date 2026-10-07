@@ -27,7 +27,13 @@ HTML · CSS · JavaScript · TypeScript · PHP · Python
 
 ![React, Next.js, Tailwind CSS, Three.js, Qt, FastAPI](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,qt,fastapi&theme=dark)
 
-React Native · Expo · PySide6 · React Three Fiber · Zustand · LangChain · faster-whisper · GPT-SoVITS
+React Native · Expo · React Router · GSAP · NativeWind · React Native Reanimated · Babylon.js · PySide6 · React Three Fiber · Zustand · LangChain · faster-whisper · GPT-SoVITS
+
+**Tools & Backend**
+
+![Vite, Supabase, Vitest](https://skillicons.dev/icons?i=vite,supabase,vitest&theme=dark)
+
+Vite · Supabase · Playwright · Vitest
 
 ### Project highlights
 
