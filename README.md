@@ -4,27 +4,22 @@
 
 I'm **Ian**, a **CMS Developer from the Philippines**, building Shopify and WordPress websites and transitioning into **custom web and mobile development**.
 
-I'm strengthening my foundations through projects using **React.js, TypeScript, Tailwind CSS, Next.js, React Native, and Expo**. My main project, **Akiha**, is a personal AI assistant I plan to extend from the desktop to mobile and eventually a portable companion device, potentially using ESP32-based hardware connected to my phone.
+I'm strengthening my foundations through projects using **React.js, TypeScript, Tailwind CSS, Next.js, React Native, and Expo**. My main project, **Akiha**, is a personal AI assistant I plan to expand into a connected desktop and mobile experience, sharing approved memories, preferences, and companion state through a shared backend. From there, I want to explore a portable Akiha using **ESP32-S3 hardware**, connected through my mobile app for animated interactions and voice commands. I'm also exploring integrations with **Codex and Claude Code** for permission-based development assistance.
 
 > [!TIP]
 > I provide Shopify and WordPress development services for businesses and startups, including custom storefronts, website updates, and ongoing support. Open to freelance projects and collaborations.
 
 ### Technologies
 
-**Client work**
+**Client platforms**
 
-![Client technologies](https://skillicons.dev/icons?i=html,css,js,php,wordpress&theme=dark)
-<img src="./assets/client-commerce-icons.svg" alt="Shopify · Liquid · WooCommerce" height="48" />
+<img src="./assets/shopify-icon.svg" alt="Shopify" title="Shopify" height="48" /> <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" title="WordPress" height="48" />
 
-**Used in personal projects & currently exploring**
+**Frameworks & libraries used in personal projects**
 
-![Main languages and frameworks](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,threejs,python,qt,supabase&theme=dark&perline=9)
+![React, Next.js, Tailwind CSS, Three.js, Qt, FastAPI](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,qt,fastapi&theme=dark)
 
-React Native · Expo · PySide6 · Ollama · GPT-SoVITS
-
-**Development tools**
-
-![Development tools](https://skillicons.dev/icons?i=git,github,vscode,figma,blender,androidstudio&theme=dark)
+React Native · Expo · PySide6 · React Three Fiber · Zustand · LangChain · faster-whisper · GPT-SoVITS
 
 ### Project highlights
 
