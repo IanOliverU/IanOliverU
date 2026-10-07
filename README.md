@@ -17,13 +17,23 @@ This GitHub documents my progress, experiments, and the things I learn along the
 
 ![Web development tools](https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,figma&theme=dark)
 
-Shopify · Liquid · WordPress · WooCommerce
+Shopify · Liquid · WordPress · WooCommerce · Elementor · Oxygen Builder · Avada
 
 **Used in personal projects & currently exploring**
 
-![Personal project tools](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,threejs,supabase&theme=dark)
+![Personal project technologies](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,threejs,python,qt,sqlite,supabase,fastapi&theme=dark&perline=6)
 
-React Native · Expo · Shopify Hydrogen & Oxygen
+These are technologies I've worked with across my projects as I continue building my understanding and practical experience.
+
+| Area | Technologies |
+| :--- | :--- |
+| Web & frontend | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, React Router, Tailwind CSS, Vite, PostCSS, Autoprefixer, GSAP, Lucide React, Radix UI |
+| Mobile | React Native, Expo, Expo Router, React Navigation, NativeWind, React Native Reanimated, Gesture Handler, AsyncStorage, React Native WebView, React Native SVG, Expo File System, Expo Image, EAS Build |
+| 3D & interactive experiences | Three.js, React Three Fiber, Drei, Rapier, Babylon.js, Babylon MMD, Blender |
+| State, backend & AI experiments | Zustand, Supabase, FastAPI, LangChain, Gemini |
+| Akiha desktop & voice | Python, PySide6 / Qt 6, SQLite, TOML, Ollama, OpenAI-compatible APIs, faster-whisper, GPT-SoVITS, Google Gen AI SDK / Gemini Live, WebSockets, Pillow |
+| Testing & code quality | Playwright, Vitest, Python unittest, Ruff, Black, ESLint |
+| Development & packaging | Git, GitHub, npm, VS Code, Android Studio, Figma, Vercel, PyInstaller, Nuitka |
 
 ### Featured project — Project Akiha 🌸
 
@@ -47,7 +57,6 @@ Windows-first · Local-first · Under active development
 ### What I'm working toward
 
 - Transitioning from CMS development into custom web and mobile applications with React.js, Tailwind CSS, TypeScript, Next.js, React Native, and Expo.
-- Exploring headless commerce with Shopify Hydrogen and Oxygen.
 - Extending Akiha from the desktop to mobile devices and exploring a portable hardware companion, potentially powered by an ESP32 connected to my phone.
 
 ---
