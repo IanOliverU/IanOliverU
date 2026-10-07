@@ -13,9 +13,7 @@ I'm strengthening my foundations through projects using **React.js, TypeScript, 
 **Client work**
 
 ![Client technologies](https://skillicons.dev/icons?i=html,css,js,php,wordpress&theme=dark)
-![Shopify](https://img.shields.io/badge/Shopify-252a34?style=flat-square&logo=shopify)
-![Liquid](https://img.shields.io/badge/Liquid-252a34?style=flat-square)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-252a34?style=flat-square&logo=woocommerce)
+<img src="./assets/client-commerce-icons.svg" alt="Shopify · Liquid · WooCommerce" height="48" />
 
 **Used in personal projects & currently exploring**
 
